@@ -19,7 +19,7 @@ Your users should be able to:
 
 
 ### screenshot
-[Single price grid component](./design/desktop-preview.jpg)
+![Single price grid component](./design/desktop-preview.jpg)
 
 
 ### Links
