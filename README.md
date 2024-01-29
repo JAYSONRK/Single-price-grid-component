@@ -1,4 +1,4 @@
-# Frontend Mentor - Single price grid component
+# Single price grid component
 
 ## Table of contents
 
